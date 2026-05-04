@@ -85,5 +85,4 @@ Built for **Databases I (CSEN 504)** as part of the B.Sc. in Computer Science an
 
 ## Authors
 
-- **Anas ElNemr**
-- **Ahmed Eltawel**
+Anas ElNemr  ·  Ahmed Eltawel
